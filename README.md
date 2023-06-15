@@ -46,3 +46,5 @@ Bill has just won the lottery and would like to configure his dream car. Bill ca
 - Bill can share the configuration with his friends or family
 
 For more Katas please see [Codurance Katalyst](https://www.codurance.com/katalyst)
+
+some comment
